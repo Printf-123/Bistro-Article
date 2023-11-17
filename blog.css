@@ -1,0 +1,78 @@
+*{
+    margin-left: 3%;
+    margin-right: 3%;
+    padding:0;
+}
+body{
+    background-color:rgb(81, 81, 68);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+
+}
+
+.logo{
+    width: 10%;
+    cursor:pointer;
+    margin-left: 44%;  
+}
+.heading_title{
+    font-size: 65px;
+    color: rgb(255, 255, 255);
+    margin-top: 0px;
+    margin-bottom: 20px;
+    line-height: 63px;
+    line-break:anywhere;
+}
+
+.intro{
+    color: orange;
+    margin-bottom:5px;
+    font-family: Arial;
+}
+
+.canteen_pic{
+    max-width: 94%;
+    height: auto;
+    
+   
+}
+.Bistro{
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color:orange;
+    font-size: 50PX;
+   
+}
+.article{
+    color: rgb(238, 232, 232);
+    margin-bottom:5px;
+    font-family: 'Times New Roman', Times, serif;
+    max-width:100%;
+    font-size: 22px;
+    
+}
+
+.Bistro_1{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color:orange;
+    font-size: 50PX;
+  
+}
+
+.canteen_pic1{
+    width: 94%;
+   
+    
+}
+.article_2{
+    color: rgb(238, 232, 232);
+    margin-bottom:5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    max-width:100%;
+    font-size: 22px;
+}
+.created{
+    font-size: 10px;
+    color: white;
+}
